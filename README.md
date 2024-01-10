@@ -20,5 +20,4 @@ The Koch snowflake is a mathematical fractal that looks like a snowflake. It is 
 ## Example
 
 ```bash
-python koch_snowflake.py
-ʼʼʼbash
+python3 koch_snowflake.py
